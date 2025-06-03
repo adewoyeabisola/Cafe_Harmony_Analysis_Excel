@@ -24,7 +24,13 @@ reducing overstock.
 
 # 🛶 Tools & Technologies
 
-Excel ( Vlookup, Hlookup, IndexMatch, PIVOT Table)
+Excel functions ( Vlookup, Hlookup, IndexMatch, conditional formatting)
+
+Pivot Tables
+
+Charts (Bar, Line, Graph, Donut)
+
+Data Slicing for interactive dashboard
 
 # 🔎 Key Insights
 
